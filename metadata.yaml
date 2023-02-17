@@ -1,0 +1,97 @@
+_repo: Aegle-and-the-elf-a-fantasy_69842
+_version: 0.0.1
+alternative_title: Aegle and the elf, a fantasy
+contributor:
+  illustrators:
+  - agent_name: Baur, Theodor
+    alias: Baur, Theodore
+    birthdate: 1835
+    deathdate: 1894
+    gutenberg_agent_id: '55449'
+    url: http://www.gutenberg.org/2009/agents/55449
+  - agent_name: Church, Frederick S. (Frederick Stuart)
+    aliases:
+    - Church, Frederick Stuart
+    - Church, F. S. (Frederick Stuart)
+    - Church, F. (Frederick)
+    birthdate: 1842
+    deathdate: 1924
+    gutenberg_agent_id: '55452'
+    url: http://www.gutenberg.org/2009/agents/55452
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Stuart_Church
+  - agent_name: Gibson, W. Hamilton (William Hamilton)
+    alias: Gibson, William Hamilton
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '7134'
+    url: http://www.gutenberg.org/2009/agents/7134
+    wikipedia: https://en.wikipedia.org/wiki/William_Hamilton_Gibson
+  - agent_name: Harper, W. St. John
+    alias: Harper, William St. John
+    birthdate: 1851
+    deathdate: 1910
+    gutenberg_agent_id: '55450'
+    url: http://www.gutenberg.org/2009/agents/55450
+  - agent_name: Mowbray, H. Siddons (Harry Siddons)
+    aliases:
+    - Mowbray, Harry Siddons
+    - Mowbray, Henry Siddons
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '55451'
+    url: http://www.gutenberg.org/2009/agents/55451
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Siddons_Mowbray
+  - agent_name: Quélin, René Theophile de
+    aliases:
+    - Quelin, Rene Theophile de
+    - De Quélin, René Theophile
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '55459'
+    url: http://www.gutenberg.org/2009/agents/55459
+  - agent_name: Shepherd, Jessie Curtis
+    alias: Curtis, Jessie
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '43363'
+    url: http://www.gutenberg.org/2009/agents/43363
+  - agent_name: Van Schaick, S. W. (Stephen Wilson)
+    aliases:
+    - Schaick, S. W. van (Stephen Wilson)
+    - Van Schaick, Stephen Wilson
+    - Vanschaick, Stephen W. (Stephen Wilson)
+    deathdate: 1920
+    gutenberg_agent_id: '41899'
+    url: http://www.gutenberg.org/2009/agents/41899
+creator:
+  author:
+    agent_name: Toland, M. B. M. (Mary Bertha McKenzie)
+    aliases:
+    - Toland, Mary Bertha McKenzie
+    - Toland, Mary B. M., Mrs.
+    deathdate: 1895
+    gutenberg_agent_id: '55448'
+    url: http://www.gutenberg.org/2009/agents/55448
+description: ''
+gutenberg_issued: '2023-01-19'
+identifiers:
+  gutenberg: '69842'
+  lccn: '31018771'
+language: en
+pgterms:marc904: https://archive.org/details/aegleelffantasy00tola/page/n13/mode/2up
+pgterms:marc905: 20211127180015toland
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: J. B. Lippincott Company,1886,pubdate 1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy poetry'
+- !lcc 'PS'
+- GITenberg
+title: Ægle and the elf, a fantasy
+url: http://www.gutenberg.org/ebooks/69842
